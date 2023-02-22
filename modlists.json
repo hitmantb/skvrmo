@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim VR Minimalistic Overhaul",
+    "description": "Modern, Gorgeous, Ready For Personal Touch",
+    "author": "hitmantb",
+    "maintainers": [
+      "github/hitmantb"
+    ],
+    "game": "skyrimvr",
+    "tags": [
+      "production",
+      "Skyrim VR"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<link to an image to show in the UI>",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/RwZvZG6qf3"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"2qPto5SvIW8=",
+      "Size":464842185,
+      "NumberOfArchives":530,
+      "SizeOfArchives":60425405602,
+      "NumberOfInstalledFiles":92736,
+      "SizeOfInstalledFiles":88292531504
+    },
+    "version": "1.4"
+  }
+]
