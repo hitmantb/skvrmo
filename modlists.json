@@ -17,10 +17,10 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
+      "image": "https://raw.githubusercontent.com/hitmantb/skvrmo/main/logo.jpg",
+      "readme": "https://raw.githubusercontent.com/hitmantb/skvrmo/main/modlists.json",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
+      "machineURL": "skvrmo",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
     "download_metadata": {
