@@ -8,7 +8,9 @@
       "github/hitmantb"
     ],
     "game": "skyrimvr",
+    "official": true,
     "tags": [
+      "Official",
       "Skyrim VR",
       "High End Visuals"
     ],
