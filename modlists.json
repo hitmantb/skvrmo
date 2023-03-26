@@ -11,7 +11,8 @@
     "tags": [
       "VR",
       "ENB",
-      "High End Visuals"
+      "High End Systems",
+      "AAA Graphics"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -20,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/hitmantb/skvrmo/main/logo.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/83995",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul.wabbajack_f5f398a4-efef-44f2-b023-c690a8d1e341",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul.wabbajack_fd39ee03-5225-4285-8ead-98f6a5acb7a3",
       "machineURL": "skvrmo",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "b+nKcmtEbLI=",
-      "Size": 555456422,
-      "NumberOfArchives": 544,
-      "SizeOfArchives": 60408040687,
-      "NumberOfInstalledFiles": 105158,
-      "SizeOfInstalledFiles": 88839455222
+      "Hash": "P/swXBvBlOc=",
+      "Size": 653465008,
+      "NumberOfArchives": 553,
+      "SizeOfArchives": 60047165939,
+      "NumberOfInstalledFiles": 106545,
+      "SizeOfInstalledFiles": 89492426502   
     },
-    "version": "1.6"
+    "version": "1.65"
   }
 ]
