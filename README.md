@@ -104,13 +104,14 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 - Save games from main list can be used in NSFW, save games from NSFW can not be used with main list
 - Use different save games to indulge in your senses.  SL especially with large groups of NPC's, coupled with PLANCK's physics is not healthy for your main progression saves
-- In first person (default), use your hand to push back and hold NPC for best view.  For hands free operation, use third person view from SL VR tab
 
 ## **Starting A Scene**
 
 - New games should auto-activate Sexlab, if you are using an old save follow the instructions on Nexus
 - You get new Mass Match Maker target/AOE spells automatically, they are self-explanatory.  Cast them on yourself and an NPC, wait a few seconds, and the scene starts.
 - In MCM - Go to Sex Lab Tools and bind a button to the Tool key (on Oculus Quest 2 I use right joystick click), this allows you to activate animation selection during the action, so you can go from position to position, and more importantly, reset the camera as part of choosing a new animation
+- Your grab needs to be within the context of the animation, i.e. pat head during BJ, grab arm during doggy, if you do something that is not intended within the animation or push the NPC too far in one direction it will go out of sync, you can see SL Tools to change scene and reset the animation
+- In first person (default), use your hand to push back and hold NPC for best view.  For hands free operation, use third person view from SL VR tab
 - Read through the SL MCM, it is one of the best made mods in terms of quality and feature set, you can enable/disable just about anything you like or dislike
 
 ## **Changing NPC outfits**
