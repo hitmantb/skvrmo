@@ -102,6 +102,7 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 ## **NSFW**
 
+- Showcase Video: https://www.naughtymachinima.com/video/77837/skyrim-vr-2023-nsfw-showcase-one-click-wabbjack-install-aaa-graphics-amp-physics
 - New games should auto-activate Sexlab, if you are using an old save follow the instructions below
   - In Mod Settings (MCM) - Enable Sex Lab and install it, this will take 30 second to 1 minute, do not do anything else during this time  
   - In MCM - Go to Sex Lab Animation Loader, click enable all the animations then register all the animations, I have included 100+ animations from Billly and Nibble,   - This will take 15 to 30 seconds, turn off anything you dislike
