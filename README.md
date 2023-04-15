@@ -1,6 +1,7 @@
 Skyrim VR Minimalistic Overhaul
 
 Regular Version: https://www.nexusmods.com/skyrimspecialedition/mods/83995
+
 NSFW Version: https://www.nexusmods.com/skyrimspecialedition/mods/86817/
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
