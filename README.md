@@ -102,12 +102,16 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 ## **NSFW**
 
-- Save games from main list can be used in NSFW, save games from NSFW can not be used with main list
-- Use different save games to indulge in your senses.  SL especially with large groups of NPC's, coupled with PLANCK's physics is not healthy for your main progression saves
+- New games should auto-activate Sexlab, if you are using an old save follow the instructions below
+- In Mod Settings (MCM) - Enable Sex Lab and install it, this will take 30 second to 1 minute, do not do anything else during this time  
+- In MCM - Go to Sex Lab Animation Loader, click enable all the animations then register all the animations, I have included 100+ animations from Billly and Nibble, - - This will take 15 to 30 seconds, turn off anything you dislike
+- In MCM - Go to Sex Lab Tools and bind a button to the Tool key (on Oculus Quest 2 I use right joystick click), this allows you to activate animation selection during the action, so you can go from position to position, and more importantly, reset the camera as part of choosing a new animation
+- In Sex Lab there are countless customization options, I personally use Loose First Person in VR, and set Hand to Hover so you can move your hands during scenes for Virtamate level interactions thanks to PLANCK.
+- I recommend you save the game here so you don't have to repeat the above
+- Strongly recommend different save games to indulge in your senses. SL especially with large groups of NPC's, coupled with PLANCK's physics is not healthy for your main progression saves.
 
 ## **Starting A Scene**
 
-- New games should auto-activate Sexlab, if you are using an old save follow the instructions on Nexus
 - You get new Mass Match Maker target/AOE spells automatically, they are self-explanatory.  Cast them on yourself and an NPC, wait a few seconds, and the scene starts.
 - In MCM - Go to Sex Lab Tools and bind a button to the Tool key (on Oculus Quest 2 I use right joystick click), this allows you to activate animation selection during the action, so you can go from position to position, and more importantly, reset the camera as part of choosing a new animation
 - Your grab needs to be within the context of the animation, i.e. pat head during BJ, grab arm during doggy, if you do something that is not intended within the animation or push the NPC too far in one direction it will go out of sync, you can see SL Tools to change scene and reset the animation
