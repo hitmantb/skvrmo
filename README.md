@@ -11,6 +11,16 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 - [Starting The Game](#starting-the-game)
 - [I have a much better GPU than 3070](#i-have-a-much-better-gpu-than-3070)
 - [I need more FPS](#i-need-more-fps)
+- [Open Composite XR](#open-composite-xr)
+- [Updating to New Version](#updating-to-new-version)
+- [Add New Mods](#add-new-mods)
+- [Controls](#controls)
+- [Changing Language](#changing-language)
+- [Changing Weather ENB](#changing-weather-enb)
+- [Changing NPC Body](#changing-npc-body)
+- [NSFW](#nsfw)
+- [Starting A Scene](#starting-a-scene)
+- [Changing NPC outfits](#changing-npc-outfits)
 
 ## **Installation**
 
@@ -50,31 +60,6 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 - Consider increase streaming bit rate via Oculus Debug tool if you use Airlink: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
 - More Info: https://www.nexusmods.com/skyrimspecialedition/mods/85389
 
-## **Controls**
-
-- Enable VRIK binding in mods section for grip to interact.  Index users, check FUS controller guide for Index bindings: https://github.com/Kvitekvist/FUS/wiki/Controller-bindings-guide
-- If you play seated, edit Auto Sneak mod's INI and change height percentage, see Nexus page for details.  Or disable them altogether
-- Highly recommend checking out VRIK, HIGGS, and Spell Wheel pages on Nexus to learn all the options of these amazing mods
-
-## **Changing Language**
-
-- Change Steam language
-- Right click on the mod "Essential Boot Files" and edit Skyrim.ini to language of your choice
-- Disable audio mod Voices EN part 1 and 2 and install one of the language packs: https://www.nexusmods.com/skyrimspecialedition/mods/18115
-
-## **Changing Weather/ENB**: https://youtu.be/MjZSNP_ToNI?t=625
-
-- Go indoor and make a save, exit game
-- Turn off current weather and ENB in MO2 mods, enable new weather/ENB and appropriate add-on's
-- Click back arrow from plugins tab to sort the plugins correctly
-- Right click on Overwrite in MO2 mods bottom section, Clear Overwrite to remove exiting ENB cache
-
-## **Changing NPC Body**
-
-- Reinstall included CBPC, CBBE 3BA, SOS, HIMBO and BNP skins, go through the FOMOD options, whether you want older skins, pubic hair, more bounce, less bounce, softer, harder, bigger or smaller . . . it is all there
-- Search for "3BA Preset" from Nexus and install them, they will be auto-distributed to NPC's, you can remove my two 3BA preset packs and replace with more Kardashian or more Abercrombie Fitch presets.  If you only keep one 3BA preset then all of your NPC's will use that body.
-- Edit the morphs.ini in AutoBody mod folder if you want more specific assignment than random distribution, please see AutoBody nexus page for more details.  You can assign by race, faction, specific NPC, and much more
-
 ## **Updating to New Version**
 
 - With the exception of major version upgrades like 2.0, I will never break a save intentionally
@@ -88,6 +73,31 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 - In general any mod without specific requirement is safe to add, place them in the right category on left side and right side.  For example new quests/locations should go after JK mods, new follower's should go after NPC mods.  Do not sort with LOOT
 - Any mod that requires Address Library will need a VR specific DLL unless specifically stated by author.  For mods newer than Nov 2021, check to make sure you are installing SE version 1.5 version of the mod , AE or SE 1.6 DLL will instant crash
 - Any mods that need to be in root folder will need to be put into the root folder of Essential Boot Files (back up existing files first).  This modlist uses Root Builder so your actual root folder is 100% clean
+
+## **Controls**
+
+- Enable VRIK binding in mods section for grip to interact.  Index users, check FUS controller guide for Index bindings: https://github.com/Kvitekvist/FUS/wiki/Controller-bindings-guide
+- If you play seated, edit Auto Sneak mod's INI and change height percentage, see Nexus page for details.  Or disable them altogether
+- Highly recommend checking out VRIK, HIGGS, and Spell Wheel pages on Nexus to learn all the options of these amazing mods
+
+## **Changing Language**
+
+- Change Steam language
+- Right click on the mod "Essential Boot Files" and edit Skyrim.ini to language of your choice
+- Disable audio mod Voices EN part 1 and 2 and install one of the language packs: https://www.nexusmods.com/skyrimspecialedition/mods/18115
+
+## **Changing Weather ENB**
+- Quick Video: https://youtu.be/MjZSNP_ToNI?t=625
+- Go indoor and make a save, exit game
+- Turn off current weather and ENB in MO2 mods, enable new weather/ENB and appropriate add-on's
+- Click back arrow from plugins tab to sort the plugins correctly
+- Right click on Overwrite in MO2 mods bottom section, Clear Overwrite to remove exiting ENB cache
+
+## **Changing NPC Body**
+
+- Reinstall included CBPC, CBBE 3BA, SOS, HIMBO and BNP skins, go through the FOMOD options, whether you want older skins, pubic hair, more bounce, less bounce, softer, harder, bigger or smaller . . . it is all there
+- Search for "3BA Preset" from Nexus and install them, they will be auto-distributed to NPC's, you can remove my two 3BA preset packs and replace with more Kardashian or more Abercrombie Fitch presets.  If you only keep one 3BA preset then all of your NPC's will use that body.
+- Edit the morphs.ini in AutoBody mod folder if you want more specific assignment than random distribution, please see AutoBody nexus page for more details.  You can assign by race, faction, specific NPC, and much more
 
 ## **NSFW**
 
