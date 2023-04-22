@@ -40,9 +40,10 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 - AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
 - Always start the game with Play Game (SKSE) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
 - Set Steam resolution based on your headset resolution and GPU
-  - On Quest 2 and 3070 for example, I use Virtual Desktop ultra (equivalent of 145% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
-  - If I have a lower solution headset like the Index I will do 175% Steam resolution, with a high resolution headset like G2 I will do 125% Steam resolution
-  - Be careful to not stack resolution multipliers, for example 150% in Steam and VD ultra or 1.5x in Oculus app with link means 225% resolution which will make the game a slide show on anything except a 4090
+  - On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 130% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
+  - If I have a lower solution headset like the Index I will do 160% Steam resolution
+  - With a high resolution headset like the G2 I will do 100% Steam resolution
+  - Be careful to not stack resolution multipliers, for example 100% in Steam and VD ultra or 1.5x in Oculus app with link means 225% resolution which will make the game a slide show on anything except a 4090
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest on slider
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - Oculus/Pico users, I strongly recommend Virtual Desktop
