@@ -25,38 +25,43 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 ## **Installation**
 
+- Download the zip file from Nexus, extract into .wabbajack file
+- Download and run Wabbajack program itself and choose the install from disk option, install to a root folder not shared by Skyrim VR, as MO2 needs full lock to the entire directory
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
 - You do not EVER need to delete and install a Wabbajack list from scratch, it is a 100% file sync
 - Typical download errors are caused by Nexus server issues.  Quit Wabbajack, restart, overwrite to resume and you won't lose any progress
 - If the error is about a file that should be part of standard Skyrim installation, set the game to English, do a Steam file validation
-- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up.  
 
 ## **Starting The Game**
-  
+
+- Once installation is complete, open MO2 and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
+- Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
+- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
 - Always start the game with Play Game (SKSE) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
-- Set Steam resolution based on your headset resolution and GPU.  On Quest 2 and 3070 for example, I use Virtual Desktop ultra (equivalent of 145% Steam resolution) and leave Steam itself to 100%, using FSR balanced.  
-- If I have a low r solution headset like the Index I will do 175% Steam resolution, with a high resolution headset like G2 I will probably do 125% Steam resolution
-- Be careful to not stack resolution multipliers, for example 150% in Steam and 1.5x in Oculus app means 225% resolution which will make the game a slide show on anything except a 4090
+- Set Steam resolution based on your headset resolution and GPU
+  - On Quest 2 and 3070 for example, I use Virtual Desktop ultra (equivalent of 145% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
+  - If I have a lower solution headset like the Index I will do 175% Steam resolution, with a high resolution headset like G2 I will do 125% Steam resolution
+  - Be careful to not stack resolution multipliers, for example 150% in Steam and 1.5x in Oculus app means 225% resolution which will make the game a slide show on anything except a 4090
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest on slider
-- When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version
+- When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
 
 ## **I have a much better GPU than 3070**
 
-- Use FSR quality in MO2 mods or in the case of 4080/4090, FSR Disabled Sharpening Only
-- On cards with 16GB or more VRAM, try the 4K edition which has 4K textures and Dyndolod generation
+- Use FSR quality in MO2 mods or in the case of 4080/4090, the FSR Disabled Sharpening Only profile
+- On cards with 16GB or more VRAM, try the 4K edition from Nexus files section, significant improvement to parallax depth, skin, clothing and Dyndolod quality
 
 ## **I need more FPS**
 
 - Enable FSR performance instead of balanced in MO2 mods
 - For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB, consider re-installing Lux with brightness templates if interiors are too dark without ENB 
-- Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p
+- Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
 
 ## **Open Composite XR** 
 
-- Significantly better than Steam VR for Airlink/Quest Link users, also worth trying for other headsets
+- Significantly better than Steam VR for Airlink/Quest Link users, also worth trying for non-Oculus headsets
 - Disable VR Performance Kit (must), enable Open Composite XR in MO2 mods section
 - Install Open XR Toolkit for upscaling instead: https://mbucchia.github.io/OpenXR-Toolkit/
 - Consider increase streaming bit rate via Oculus Debug tool if you use Airlink: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
@@ -73,7 +78,7 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 - Always have a separate save game before adding new mods, in case you need to remove and revert
 - In general any mod without specific requirement is safe to add, place them in the right category on left side and right side.  For example new quests/locations should go after JK mods, new follower's should go after NPC mods.  Do not sort with LOOT
-- Any mod that requires Address Library will need a VR specific DLL unless specifically stated by author.  For mods newer than Nov 2021, check to make sure you are installing SE version 1.5 version of the mod , AE or SE 1.6 DLL will instant crash
+- Any mod that requires Address Library will need a VR specific DLL unless specifically stated by author.  For mods newer than Nov 2021, check to make sure you are installing SE version 1.5 version of the mod, AE or SE 1.6 DLL will instant crash
 - Any mods that need to be in root folder will need to be put into the root folder of Essential Boot Files (back up existing files first).  This modlist uses Root Builder so your actual root folder is 100% clean
 
 ## **Controls**
