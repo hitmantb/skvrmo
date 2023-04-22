@@ -43,14 +43,13 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 ## **I have a much better GPU than 3070**
 
-- Use FSR quality in MO2 settings section of mods or in the case of 4080/4090, FSR ultra
-- On 16GB cards consider upgrading textures to 4K.  202x, SRP and BNP Skin 4K make the biggest difference
-- Re-run XLodgen, Texgen and Dyndolod with 4K settings, update Dyndolod Resource and Dyndolod 3 from Nexus: https://stepmodifications.org/wiki/SkyrimSE:2.0.0#xLODGen
+- Use FSR quality in MO2 mods or in the case of 4080/4090, FSR Disabled Sharpening Only
+- On cards with 16GB or more VRAM, try the 4K edition which has 4K textures and Dyndolod generation
 
 ## **I need more FPS**
 
 - Enable FSR performance instead of balanced in MO2 mods
-- For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB 
+- For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB, consider re-installing Lux with brightness templates if interiors are too dark without ENB 
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p
 
 ## **Open Composite XR** 
