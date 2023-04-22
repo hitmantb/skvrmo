@@ -26,7 +26,7 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 ## **Installation**
 
 - Download the zip file from Nexus, extract into .wabbajack file
-- Download and run Wabbajack program itself and choose the install from disk option, install to a root folder not shared by Skyrim VR, as MO2 needs full lock to the entire directory
+- Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the install from disk option, install to a root folder not shared by Skyrim VR, as MO2 needs full lock to the entire directory
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
 - You do not EVER need to delete and install a Wabbajack list from scratch, it is a 100% file sync
 - Typical download errors are caused by Nexus server issues.  Quit Wabbajack, restart, overwrite to resume and you won't lose any progress
@@ -34,7 +34,7 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 
 ## **Starting The Game**
 
-- Once installation is complete, open MO2 and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
+- Once installation is complete, open MO2 from the installed folder and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
 - Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
 - Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
