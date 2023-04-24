@@ -46,6 +46,7 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
   - Be careful to not stack resolution multipliers, for example 100% in Steam and VD ultra or 1.5x in Oculus app with link means 225% resolution which will make the game a slide show on anything except a 4090
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest on slider
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
+- Use VRIK power to calibrate your height, it helps with movement and stealth
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
 
