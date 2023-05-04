@@ -47,6 +47,7 @@ This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtu
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest on slider
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - Use VRIK power to calibrate your height, it helps with movement and stealth
+- If you play with left-handed mode and use NSFW, install https://www.nexusmods.com/skyrimspecialedition/mods/34301/
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
 
