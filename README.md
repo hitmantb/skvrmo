@@ -6,7 +6,7 @@ NSFW Version: https://www.nexusmods.com/skyrimspecialedition/mods/86817/
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
-This modlist is designed for 3060TI and up.  I am playing on 11700 + 3070, Virtual Desktop High (1.35x native Quest 2 resolution which shines with FSR upscaling), 45 FPS reprojected to 90.  For all crash issues, drop crash<dateTime stamp>.log from My Documents\Skyrim VR\SKSE in chat.  All other issues, specify GPU and headset.
+This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual Desktop High (1.35x native Quest 2 resolution which shines with FSR upscaling), 45 FPS reprojected to 90.  For all crash issues, drop crash<dateTime stamp>.log from My Documents\Skyrim VR\SKSE in chat.  All other issues, specify GPU and headset.
 
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
