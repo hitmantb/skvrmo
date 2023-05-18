@@ -11,8 +11,8 @@
     "tags": [
       "VR",
       "ENB",
-      "High End Systems",
-      "AAA Graphics"
+      "AAA PCVR",
+      "4K Ultra Edition"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/hitmantb/skvrmo/main/logo.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/83995",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul.wabbajack_9869eedd-81b8-4d79-befe-c8e407ce7f66",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul.wabbajack_298af29f-174b-4fce-a9f1-14abae4ead19",
       "machineURL": "skvrmo",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8JaogWmt7Z0=",
-      "Size": 1351682129,
-      "NumberOfArchives": 582,
-      "SizeOfArchives": 67012293434,
-      "NumberOfInstalledFiles": 117316,
-      "SizeOfInstalledFiles": 96262236053
+      "Hash": "lEiULBg1QuA=",
+      "Size": 872474808,
+      "NumberOfArchives": 645,
+      "SizeOfArchives": 133698093936,
+      "NumberOfInstalledFiles": 114429,
+      "SizeOfInstalledFiles": 169983148352
     },
     "version": "1.71"
   }
