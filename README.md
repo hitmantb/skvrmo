@@ -25,6 +25,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **Installation**
 
+- Installation Video: https://youtu.be/jDYZzAjbJZY?t=320
 - Download the zip file from Nexus, extract into .wabbajack file
 - Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the install from disk option, install to a root folder not shared by Skyrim VR, as MO2 needs full lock to the entire directory
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
