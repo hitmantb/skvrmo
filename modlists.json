@@ -21,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/hitmantb/skvrmo/main/logo.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/83995",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul.wabbajack_298af29f-174b-4fce-a9f1-14abae4ead19",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul.wabbajack_2bd539d0-da29-4030-a4a1-f373c6dff8eb",
       "machineURL": "skvrmo",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "lEiULBg1QuA=",
-      "Size": 872474808,
-      "NumberOfArchives": 645,
-      "SizeOfArchives": 133698093936,
-      "NumberOfInstalledFiles": 114429,
-      "SizeOfInstalledFiles": 169983148352
+      "Hash": "ZLuLorO0I8U=",
+      "Size": 833803528,
+      "NumberOfArchives": 615,
+      "SizeOfArchives": 129681933385,
+      "NumberOfInstalledFiles": 135684,
+      "SizeOfInstalledFiles": 182396029451
     },
-    "version": "1.72"
+    "version": "1.80"
   }
 ]
