@@ -31,13 +31,13 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
 - You do not EVER need to delete and install a Wabbajack list from scratch, it is a 100% file sync
 - Typical download errors are caused by Nexus server issues.  Quit Wabbajack, restart, overwrite to resume and you won't lose any progress
-- If the error is about a file that should be part of standard Skyrim installation, set the game to English, do a Steam file validation
+- If the error is about a file that should be part of standard Skyrim installation (i.e. INI file), set the game to English, do a Steam file validation
 
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
 - AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
-- 16GB RAM users please increase your page file (or better yet, upgrade to 32 for AAA gaming in 2023) to avoid crashes: https://www.reddit.com/r/skyrimvr/comments/8aa7jt/psa_running_4k_textures_loads_of_mods_is_killing/
+- 16GB RAM users please increase your virtual memory (or better yet, upgrade to 32 for AAA gaming in 2023) to avoid crashes: https://www.reddit.com/r/skyrimvr/comments/8aa7jt/psa_running_4k_textures_loads_of_mods_is_killing/
 - If you play with left-handed mode and use NSFW, install https://www.nexusmods.com/skyrimspecialedition/mods/34301/ to avoid crash
 - Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
 - Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
