@@ -55,18 +55,18 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I have a much better GPU than 3070**
 
-- Use FSR quality in MO2 mods or in the case of 4080/4090, the FSR Disabled Sharpening Only profile
-- On cards with 16GB or more VRAM, try the 4K edition from Nexus files section, significant improvement to parallax depth, skin, clothing and Dyndolod quality
+- Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
+- 16 - 24GB VRAM users may be able to disable VRAMr and ParallaxR for slightly more image quality
 
 ## **I need more FPS**
 
 - Enable FSR performance instead of balanced in MO2 mods
-- For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB, consider re-installing Lux with brightness templates if interiors are too dark without ENB 
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
+- For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB, consider re-installing Lux with brightness templates if interiors are too dark without ENB 
 
 ## **Open Composite XR** 
 
-- Significantly better than Steam VR for Airlink/Quest Link users, also worth trying for non-Oculus headsets
+- Significantly better than Steam VR for Airlink/Quest Link users (I still recommend Virtual Desktop), also worth trying for non-Oculus headsets
 - Disable VR Performance Kit (must), enable Open Composite XR in MO2 mods section
 - Install Open XR Toolkit for upscaling instead: https://mbucchia.github.io/OpenXR-Toolkit/
 - Consider increase streaming bit rate via Oculus Debug tool if you use Airlink: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
@@ -126,8 +126,8 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 - You get new Mass Match Maker target/AOE spells automatically, they are self-explanatory.  Cast them on yourself and an NPC, wait a few seconds, and the scene starts.
 - In MCM - Go to Sex Lab Tools and bind a button to the Tool key (on Oculus Quest 2 I use right joystick click), this allows you to activate animation selection during the action, so you can go from position to position, and more importantly, reset the camera as part of choosing a new animation
-- Your grab needs to be within the context of the animation, i.e. pat head during BJ, grab arm during doggy, if you do something that is not intended within the animation or push the NPC too far in one direction it will go out of sync, you can see SL Tools to change scene and reset the animation
-- In first person (default), use your hand to push back and hold NPC for best view.  For hands free operation, use third person view from SL VR tab
+- Your grab needs to be within the context of the animation, i.e. pat head during BJ, grab arm during doggy, if you do something that is not intended within the animation or push the NPC too far in one direction it will go out of sync, you can use SL Tools to change scene and reset the animation
+- In first person (default), use your hand to push back and hold NPC for best view and avoid clipping.  For hands free operation, use third person view from SL VR tab
 - Read through the SL MCM, it is one of the best made mods in terms of quality and feature set, you can enable/disable just about anything you like or dislike
 
 ## **Changing NPC outfits**
