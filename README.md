@@ -60,6 +60,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I need more FPS**
 
+- Consider using Community Shader with Reshade instead of ENB: https://github.com/hitmantb/skvrmo/blob/main/reshade.png
 - Enable FSR performance instead of balanced in MO2 mods
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
 - For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB, consider re-installing Lux with brightness templates if interiors are too dark without ENB 
