@@ -36,26 +36,24 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
+- Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, Oculus users should set Oculus run time to Steam VR in Oculus App
 - AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
-- Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest on slider
+- Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
+- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do VD high (130% of device resolution), with the same card and Pico 4 I will need to go lower.  Increase/decrease the resolution depend on your headset and GPU
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
-- Always start the game with Play Game (SKSE) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
 - 16GB RAM users please increase your virtual memory (or better yet, upgrade to 32 for AAA gaming in 2023) to avoid crashes: https://www.reddit.com/r/skyrimvr/comments/8aa7jt/psa_running_4k_textures_loads_of_mods_is_killing/
-- Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
-- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
-- Set Steam resolution based on your headset resolution and GPU
-  - On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 135% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
-  - With the same card, if I have a lower solution headset like the Index I would do 160% Steam resolution
-  - With a higher resolution headset like the G2 I will do 100% Steam resolution
-  - Be careful to not stack resolution multipliers, for example 150% in Steam VR and VD ultra or 1.5x in Oculus app with link means 225% resolution which will make the game a slide show on anything except a 4090, if you are using a high resolution device like Pico 4 or G2
 - Use VRIK power to calibrate your height, it helps with movement and stealth
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
-- If you play with left-handed mode and use NSFW, install https://www.nexusmods.com/skyrimspecialedition/mods/34301/ to avoid crash
+- If you play with left-handed mode, enable Left Handed Mode in settings to avoid crash on start-up
+- Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
+- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 
-## **I have a much better GPU than 3070**
+## **I need higher image quality**
 
+- Right click the FSR mods you selected, open in explorer, edit the YML file and increase sharpness
 - Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
+- Increase resolution multiplier in Virtual Desktop, Oculus App or Steam VR, the sweet spot is 150% of device resolution in one of these three places
 - 16 - 24GB VRAM users may be able to disable VRAMr and ParallaxR for slightly more image quality
 
 ## **I need more FPS**
@@ -63,7 +61,6 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Consider using Community Shader with Reshade instead of ENB: https://github.com/hitmantb/skvrmo/blob/main/reshade.png
 - Enable FSR performance instead of balanced in MO2 mods
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
-- For older hardware, consider disabling ENB from settings section in MO2 mods.  Azurite Weather looks best without ENB, consider re-installing Lux with brightness templates if interiors are too dark without ENB 
 
 ## **Open Composite XR** 
 
