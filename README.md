@@ -10,7 +10,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
-- [I have a much better GPU than 3070](#i-have-a-much-better-gpu-than-3070)
+- [I need higher image quality](#i-need-higher-image-quality)
 - [I need more FPS](#i-need-more-fps)
 - [Open Composite XR](#open-composite-xr)
 - [Updating to New Version](#updating-to-new-version)
