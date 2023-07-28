@@ -39,13 +39,13 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, Oculus users should set Oculus run time to Steam VR in Oculus App
 - AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
-- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do VD high (130% of device resolution), with the same card and Pico 4 I will need to go lower.  Increase/decrease the resolution depend on your headset and GPU
+- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 110% device resoluton, with Index I can do 150% device resolution.  G2 100% Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - 16GB RAM users please increase your virtual memory (or better yet, upgrade to 32 for AAA gaming in 2023) to avoid crashes: https://www.reddit.com/r/skyrimvr/comments/8aa7jt/psa_running_4k_textures_loads_of_mods_is_killing/
 - Use VRIK power to calibrate your height, it helps with movement and stealth
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
-- If you play with left-handed mode, enable Left Handed Mode in settings to avoid crash on start-up
+- If you play with left-handed mode, install https://www.nexusmods.com/skyrimspecialedition/mods/34301
 - Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
 - Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 
@@ -54,11 +54,12 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Right click the FSR mods you selected, open in explorer, edit the YML file and increase sharpness
 - Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
 - Increase resolution multiplier in Virtual Desktop, Oculus App or Steam VR, the sweet spot is 150% of device resolution in one of these three places
-- 16 - 24GB VRAM users may be able to disable VRAMr and ParallaxR for slightly more image quality
+- 16 - 24GB VRAM users may be able to disable VRAMr and ParallaxR for more image quality
 
 ## **I need more FPS**
 
 - Consider using Community Shader with Reshade instead of ENB: https://github.com/hitmantb/skvrmo/blob/main/reshade.png
+- Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should be enabled
 - Enable FSR performance instead of balanced in MO2 mods
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
 
