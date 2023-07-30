@@ -95,10 +95,15 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 - Change Steam language
 - Right click on the mod "Essential Boot Files" and edit Skyrim.ini to language of your choice,
+
 [General]
+
 sLanguage=ENGLISH
+
 [Fonts]
+
 sFontConfigFile=Interface\FontConfig_pl.txt         
+
 - Disable audio mod Voices EN part 1 and 2 and install one of the language packs: https://www.nexusmods.com/skyrimspecialedition/mods/18115
 
 ## **Changing Weather ENB**
