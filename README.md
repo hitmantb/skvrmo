@@ -37,7 +37,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
-- AMD/GTX users disable DLAA and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
+- AMD/GTX users disable Skyrim VR Upscaler and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
 - Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 110% device resoluton, with Index I can do 150% device resolution.  G2 100% Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
