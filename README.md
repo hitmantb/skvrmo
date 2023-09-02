@@ -141,7 +141,7 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 
 ## **Changing NPC outfits**
 
-- In MCM go to Simple Item Spawner and enable the spell, this is an alteration spell that allows you to get item from any installed mods, the three installed DX outfit packs have a lot of clothing to get started
+- In inventory open AddItem book to get the AddItem spell, this is an spell that allows you to get item from any installed mods, the three installed DX outfit packs have a lot of clothing to get started
 - In your inventory there is a new "Ring of Fashion Designer", which when equipped, gives you ability to override an NPC's equipment
 - You use Simple Item Spawner to get an outfit, then give it to any NPC of your choice
 - In SexLab you can disable the stripping option so the NPC wears outfit of your choice during the act
