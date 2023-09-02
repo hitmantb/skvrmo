@@ -59,9 +59,10 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I need more FPS**
 
-- Consider using Community Shader with Reshade instead of ENB: https://github.com/hitmantb/skvrmo/blob/main/reshade.png
-- Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should be enabled
-- Enable FSR performance instead of balanced in MO2 mods
+- For Quest 2, general guideline is 3070 for Virtual Desktop Medium/Oculus 1.2x, 3080/4070 for Virtual Desk High/Oculus 1.3x, 3090/4070TI for Virtual Desktop Ultra/Oculus 1.5x 
+- For G2, Steam 100% is already 150% device resolution which is 3000x3000 per eye, reduce this unless you have 4080/4090
+- If your device is higher resolution, adjust the expectation accordingly
+- Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should be enabled unless you have a 4090
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
 
 ## **Open Composite XR** 
