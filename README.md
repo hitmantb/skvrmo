@@ -66,8 +66,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 - I HIGHLY recommend Steam VR and Virtual Desktop for better performance and compatiability
 - However this is better than Steam VR for Airlink/Quest Link users, also worth trying for non-Oculus headsets
-- Disable VR Performance Kit (must), enable Open Composite XR in MO2 mods section
-- Install Open XR Toolkit for upscaling instead: https://mbucchia.github.io/OpenXR-Toolkit/
+- In MO2 mods section, disable VR Performance Kit (must), enable DLSS as a replacement, enable Open Composite XR in MO2 mods section
 - Consider increase streaming bit rate via Oculus Debug tool if you use Airlink: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
 - More Info: https://www.nexusmods.com/skyrimspecialedition/mods/85389
 
