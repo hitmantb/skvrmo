@@ -52,22 +52,20 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I need higher image quality**
 
-- Right click the FSR mods you selected, open in explorer, edit the YML file and increase sharpness
 - Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
-- Increase resolution multiplier in Virtual Desktop, Oculus App or Steam VR, the sweet spot is 150% of device resolution in one of these three places
-- 16 - 24GB VRAM users may be able to disable VRAMr and ParallaxR for more image quality
+- Consider disabling VR FPS stablizer to disable dynamic INI adjustments
+- 16 - 24GB VRAM users can disable VRAMr and ParallaxR for more image quality
 
 ## **I need more FPS**
 
 - For Quest 2, general guideline is 3070 for Virtual Desktop Medium/Oculus 1.2x, 3080/4070 for Virtual Desk High/Oculus 1.3x, 3090/4070TI for Virtual Desktop Ultra/Oculus 1.5x 
-- For G2, Steam 100% is already 150% device resolution which is 3000x3000 per eye, reduce this unless you have 4080/4090
-- If your device is higher resolution, adjust the expectation accordingly
+- If your device is higher or lower resolution, adjust the expectation accordingly.  Keep in mind for non-Oculus devices, their 100% Steam VR resolution is already 1.5x device resolution to account for barrel distortion.  For G2 it is 3000x3000 per eye.
 - Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should be enabled unless you have a 4090
-- Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, reduce resolution, disable additional TV/monitors if you are running multiple monitors, set primary monitor to 1080p.  Every bit of VRAM helps on a 8GB card
 
 ## **Open Composite XR** 
 
-- Significantly better than Steam VR for Airlink/Quest Link users (I still recommend Virtual Desktop), also worth trying for non-Oculus headsets
+- I HIGHLY recommend Steam VR and Virtual Desktop for better performance and compatiability
+- However this is better than Steam VR for Airlink/Quest Link users, also worth trying for non-Oculus headsets
 - Disable VR Performance Kit (must), enable Open Composite XR in MO2 mods section
 - Install Open XR Toolkit for upscaling instead: https://mbucchia.github.io/OpenXR-Toolkit/
 - Consider increase streaming bit rate via Oculus Debug tool if you use Airlink: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
