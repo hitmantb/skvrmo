@@ -73,10 +73,10 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **Updating to New Version**
 
-- With the exception of major version upgrades like 2.0, I will never break a save intentionally
+- With the exception of major version upgrades like 1.x to 2.x, I will never break a save intentionally
 - It is however not possible to predict save stability if you added/removed mods, or test every iteration of every save game.  Review change log and make changes manually is always the safest way to update the list and keep the changes you made
 - You can use [NoDelete] in front of installed mods like "[NoDelete] Conduit" to keep them from being removed, however you will still need to manually put them back into load order
-- You will still lose sort order and personal FOMOD choices when you update, so consider making updates manually based on change logs
+- Alternatively check out https://github.com/matm-git/Reactivate-MO2-modlist for a script to re-enable mods automatically
 
 ## **Add New Mods**
 
