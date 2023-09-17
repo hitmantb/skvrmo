@@ -48,7 +48,8 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
 - If you play with left-handed mode, install https://www.nexusmods.com/skyrimspecialedition/mods/34301
 - Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
-- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
+- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up
+- There are several ways to start the main quest, check out: https://www.nexusmods.com/skyrimspecialedition/mods/272
 
 ## **I need higher image quality**
 
