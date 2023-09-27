@@ -42,8 +42,8 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
 - Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 110% device resoluton, with Index I can do 150% device resolution.  G2 100% Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
-- Please increase your virtual memory (or better yet, upgrade to 32 for AAA gaming in 2023) to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
-- Please reset your Nvidia GPU driver settings to default and avoid undervolt/overclocking, if you experience random crashes, power limit is fine
+- Please increase your virtual memory to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
+- Please reset your Nvidia GPU driver settings to default and disable undervolt/overclocking if you experience random crashes, power limit is fine
 - Use VRIK power to calibrate your height, it helps with movement and stealth
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 - If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
