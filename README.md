@@ -38,39 +38,35 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game still crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
-- AMD/GTX users disable Skyrim VR Upscaler and Nvidia Reflex in MO2 mods to avoid hard crash.  Enable TAA in game to compensate
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
-- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 110% device resoluton, with Index I can do 150% device resolution.  G2 100% Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - Please increase your virtual memory to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
 - Please reset your Nvidia GPU driver settings to default and disable undervolt/overclocking if you experience random crashes, power limit is fine
 - Use VRIK power to calibrate your height, it helps with movement and stealth
 - Oculus/Pico users, I strongly recommend Virtual Desktop
-- If you must use Oculus Link, Airlink, or use another headset, see section on Open Composite XR
-- If you play with left-handed mode, install https://www.nexusmods.com/skyrimspecialedition/mods/34301
 - Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
 - Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up
 - There are several ways to start the main quest, check out: https://www.nexusmods.com/skyrimspecialedition/mods/272
 
 ## **I need higher image quality**
 
-- Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
-- Consider disabling VR FPS stablizer to disable dynamic INI adjustments
-- 16 - 24GB VRAM users can disable VRAMr and ParallaxR for more image quality
+- Strongly recommend enabling DLAA or DLSS if you are a Nvidia user as they provide far better anti-aliasing than TAA
+- Disable VR FPS stablizer to disable INI adjustments which can cause flicker in some areas
+- 16 - 24GB VRAM users can consider replace the major texture packs like SRP and 202x with 4K version if they have VRAM head room
 
 ## **I need more FPS**
 
-- For Quest 2, general guideline is 3070 for Virtual Desktop Medium/Oculus 1.2x, 3080/4070 for Virtual Desk High/Oculus 1.3x, 3090/4070TI for Virtual Desktop Ultra/Oculus 1.5x 
-- If your device is higher or lower resolution, adjust the expectation accordingly.  Keep in mind for non-Oculus devices, their 100% Steam VR resolution is already 1.5x device resolution to account for barrel distortion.  For G2 it is 3000x3000 per eye.
-- Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should be enabled unless you have a 4090
+- Enable DLSS if you are Nvidia user, VR Performance Kit FSR if you are AMD (notice FSR is not compatible with Reshade and Open Composite) 
+- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 100% device resoluton.  Index at Steam VR 100% is already 150% of device resolution but the device has low resolution so I am still good.  G2 at Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
+- If your device is higher or lower resolution, adjust the expectation accordingly.  Keep in mind for non-Oculus devices, their 100% Steam VR resolution is already 1.5x device resolution to account for barrel distortion.  For G2 it is 3000x3000 per eye
+- Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should be enabled unless you have a 4080 or 4090
 
-## **Open Composite XR** 
+## **Open Composite** 
 
 - I HIGHLY recommend Steam VR and Virtual Desktop for better performance and compatiability
-- However this is better than Steam VR for Airlink/Quest Link users, also worth trying for non-Oculus headsets
-- In MO2 mods section, disable VR Performance Kit (must), enable DLSS as a replacement, enable Open Composite XR in MO2 mods section
-- Consider increase streaming bit rate via Oculus Debug tool if you use Airlink: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
-- More Info: https://www.nexusmods.com/skyrimspecialedition/mods/85389
+- However this is better than Steam VR for Airlink/Quest Link users
+- This is not comparable with VR Performance Kit FSR, so use DLSS instead
+- Consider increase streaming bit rate via Oculus Debug tool: https://www.reddit.com/r/OculusQuest/comments/1219cad/i_found_a_way_to_use_air_link_at_over_500mbps_lol/
 
 ## **Updating to New Version**
 
