@@ -17,7 +17,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - [Add New Mods](#add-new-mods)
 - [Controls](#controls)
 - [Changing Language](#changing-language)
-- [Changing Weather ENB](#changing-weather-enb-community-shader)
+- [Changing Weather ENB and Community Shader](#changing-weather-enb-community-shader)
 - [Changing NPC Body](#changing-npc-body)
 - [NSFW](#nsfw)
 - [Starting A Scene](#starting-a-scene)
