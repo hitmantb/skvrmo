@@ -17,7 +17,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - [Add New Mods](#add-new-mods)
 - [Controls](#controls)
 - [Changing Language](#changing-language)
-- [Changing Weather ENB](#changing-weather-enb)
+- [Changing Weather ENB](#changing-weather-enb-community-shader)
 - [Changing NPC Body](#changing-npc-body)
 - [NSFW](#nsfw)
 - [Starting A Scene](#starting-a-scene)
@@ -105,9 +105,9 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 ## **Changing Weather, ENB, Community Shader**
 - Quick Video: https://youtu.be/MjZSNP_ToNI?t=625
 - Go indoor and make a save, exit game
-- Turn off current weather and ENB in MO2 mods, enable new weather/ENB and appropriate add-on's
-- Click back arrow from plugins tab to sort the plugins correctly
-- Right click on Overwrite in MO2 mods bottom left section, Clear Overwrite to remove exiting ENB cache
+- Turn off current weather, CS and ENB in MO2 mods, enable new weather, CS and ENB and appropriate weather add-on's
+- Click back arrow from top of plugins tab on ghe right to sort the plugins correctly
+- Right click on Overwrite in MO2 mods bottom left section (last mod on the list), Clear Overwrite to remove exiting weather/CS/ENB files
 
 ## **Changing NPC Body**
 
