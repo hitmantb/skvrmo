@@ -102,7 +102,7 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 - Disable audio mod Voices EN part 1 and 2 and install one of the language packs: https://www.nexusmods.com/skyrimspecialedition/mods/18115
 
 ## **Changing Weather, ENB, Community Shader**
-- Tutorial: [https://imgur.com/a/APTjWuW](https://www.reddit.com/r/skyrimvr_unrestricted/comments/17hoexy/minimalistic_overhaul_changing_weather_enb_and/)
+- Tutorial: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17hoexy/minimalistic_overhaul_changing_weather_enb_and/
 - Turn off current weather, CS and ENB in MO2 mods, enable new weather, CS and ENB and appropriate weather add-on's
 - Click back arrow from top of plugins tab on ghe right to sort the plugins correctly
 - Right click on Overwrite in MO2 mods bottom left section (last mod on the list), Clear Overwrite to remove exiting weather/CS/ENB files
