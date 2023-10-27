@@ -50,13 +50,12 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I need higher image quality**
 
-- Strongly recommend enabling DLAA or DLSS if you are a Nvidia user as they provide far better anti-aliasing than TAA
+- Consider enabling DLAA or DLSS if you are a Nvidia user as they provide far better anti-aliasing than TAA
 - 16 - 24GB VRAM users can consider replace the major texture packs like SRP and 202x with 4K version if they have VRAM head room
 
 ## **I need more FPS**
 
-- Enable DLSS if you are Nvidia user, VR Performance Kit FSR if you are AMD (notice FSR is not compatible with Reshade and Open Composite) 
-- Enable VR FPS stablizer to add dynamic LOD adjustment when your FPS drops, which can cause flicker in some areas
+- Use VR Performance Kit FSR, it generally performs better than DLSS/DLAA in VR, MUCH better performance with ENB.  Notice FSR is not compatible with Reshade and Open Composite
 - Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 100% device resoluton.  Index and G2 at Steam VR 100% is already 150% of device resolution, Index has low resolution so I am still good.  G2 at 100% Steam VR resolution is already 3000x3000, so reduce it to 90% or 80% if needed
 - Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should generally be enabled unless you have a 4080 or 4090
 
@@ -69,7 +68,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **Updating to New Version**
 
-- With the exception of major version upgrades like 1.x to 2.x, I will never break a save intentionally
+- With the exception of major version upgrades like 1.x to 2.x, indoor saves are 99% safe between versions
 - It is however not possible to predict save stability if you added/removed mods, or test every iteration of every save game.  Review change log and make changes manually is always the safest way to update the list and keep the changes you made
 - You can use [NoDelete] in front of installed mods like "[NoDelete] Conduit" to keep them from being removed, however you will still need to manually put them back into load order
 - Alternatively check out https://github.com/matm-git/Reactivate-MO2-modlist for a script to re-enable mods automatically
@@ -103,7 +102,7 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 - Disable audio mod Voices EN part 1 and 2 and install one of the language packs: https://www.nexusmods.com/skyrimspecialedition/mods/18115
 
 ## **Changing Weather, ENB, Community Shader**
-- Sample Steps: https://imgur.com/a/APTjWuW
+- Tutorial: [https://imgur.com/a/APTjWuW](https://www.reddit.com/r/skyrimvr_unrestricted/comments/17hoexy/minimalistic_overhaul_changing_weather_enb_and/)
 - Turn off current weather, CS and ENB in MO2 mods, enable new weather, CS and ENB and appropriate weather add-on's
 - Click back arrow from top of plugins tab on ghe right to sort the plugins correctly
 - Right click on Overwrite in MO2 mods bottom left section (last mod on the list), Clear Overwrite to remove exiting weather/CS/ENB files
