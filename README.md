@@ -51,7 +51,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 ## **I need higher image quality**
 
 - Consider enabling DLAA or DLSS if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of performance
-- 16 - 24GB VRAM users can consider replace the major texture packs like SRP and 202x with 4K version if they have VRAM head room
+- 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x, and Terrain Parallax (or any parallax landscape), if they have VRAM head room, just put them below the 2K version and remove 2K
 
 ## **I need more FPS**
 
