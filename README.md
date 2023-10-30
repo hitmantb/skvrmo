@@ -50,12 +50,12 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I need higher image quality**
 
-- Consider enabling DLAA or DLSS if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of performance
-- 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x, and Terrain Parallax (or any parallax landscape), if they have VRAM head room, just put them below the 2K version and remove 2K
+- Consider enabling DLAA if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of performance
+- 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x, and Terrain Parallax, if they have VRAM head room, just put them below the 2K version and remove 2K versions
 
 ## **I need more FPS**
 
-- Use VR Performance Kit FSR Quality or Balanced, it performs much better than DLSS/DLAA in VR, about 30% better performance with ENB.  Notice FSR is not compatible with Reshade and Open Composite
+- Use VR Performance Kit FSR Quality or Balanced, it performs much better than DLSS in VR, about 30% better performance with ENB
 - Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 100% device resoluton.  Index and G2 at Steam VR 100% is already 150% of device resolution, Index has low resolution so I am still good.  G2 at 100% Steam VR resolution is already 3000x3000, so reduce it to 90% or 80% if needed
 - Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should generally be enabled unless you have a 4080 or 4090
 
