@@ -42,10 +42,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - Please increase your virtual memory to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
 - Please reset your Nvidia GPU driver settings to default and disable undervolt/overclocking if you experience random crashes, power limit is fine
-- Use VRIK power to calibrate your height, it helps with movement and stealth
-- Oculus/Pico users, I strongly recommend Virtual Desktop
-- Mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab
-- Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up
+- Mods/plugins are disabled for a reason, do not mass enable all or sort plugins with LOOT, if you did, restore mod order with back arrow on mod tab, restore plugin order with back arrow on plugin tab
 - There are several ways to start the main quest, check out: https://www.nexusmods.com/skyrimspecialedition/mods/272
 
 ## **I need higher image quality**
@@ -56,7 +53,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 ## **I need more FPS**
 
 - Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
-- The list also comes with Open Composite XR which works for Virtual Desktop XR and Meta Airlink.  Pleae be aware XR doesn't support Reshade and VR Performance Kit.  You can use Open XR Toolkit to add FSR and CAS back into it: https://mbucchia.github.io/OpenXR-Toolkit/
+- The list also comes with Open Composite XR which works for Virtual Desktop XR and Meta Airlink.  Please be aware XR doesn't support Reshade and VR Performance Kit.  You can use Open XR Toolkit to add FSR and CAS back into it: https://mbucchia.github.io/OpenXR-Toolkit/
 - For Virtual Desktop XR https://www.reddit.com/r/skyrimvr_unrestricted/s/pbj8ebqT57
 - For Meta Link users, the list also comes with the legacy version of Open Composite VR.  This only works for Meta Link, and does support Reshade and VR Performance Kit
 
@@ -72,7 +69,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Always have a separate save game before adding new mods, in case you need to remove and revert
 - In general any mod without specific requirement is safe to add to the end of the list
 - Any mod that requires Address Library will need a VR specific DLL unless specifically stated by author.  For mods newer than Nov 2021, check to make sure you are installing SE version 1.5 version of the mod, AE or SE 1.6 DLL will instant crash
-- Any mods that need to be in root folder will need to be put into the root folder of Essential Boot Files (back up existing files first).  This modlist uses Root Builder so your actual root folder is 100% clean
+- Any mods that need to be in root folder will need to be put into the root folder of Essential Boot Files (back up existing files first).  This modlist uses Root Builder so your actual root folder is 100% clean, and you should never put files there directly
 
 ## **Controls**
 
