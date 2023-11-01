@@ -50,13 +50,15 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I need higher image quality**
 
-- Consider enabling DLAA if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of performance
+- Consider enabling DLAA if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of 10% performance
 - 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x, and Terrain Parallax, if they have VRAM head room, just put them below the 2K version and remove 2K versions
 
 ## **I need more FPS**
 
 - Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
-- For Open Composite: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/ 
+- The list also comes with Open Composite XR which works for Virtual Desktop XR and Meta Airlink.  Pleae be aware XR doesn't support Reshade and VR Performance Kit.  You can use Open XR Toolkit to add FSR and CAS back into it: https://mbucchia.github.io/OpenXR-Toolkit/
+- For Virtual Desktop XR https://www.reddit.com/r/skyrimvr_unrestricted/s/pbj8ebqT57
+- For Meta Link users, the list also comes with the legacy version of Open Composite VR.  This only works for Meta Link, and does support Reshade and VR Performance Kit
 
 ## **Updating to New Version**
 
