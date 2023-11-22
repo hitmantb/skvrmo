@@ -52,7 +52,8 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 ## **I need more FPS**
 
 - Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
-- The list also comes with Open Composite XR which works for Virtual Desktop XR and Meta Airlink.  Please be aware XR doesn't support Reshade and VR Performance Kit.  You can use Open XR Toolkit to add FSR and CAS back into it: https://mbucchia.github.io/OpenXR-Toolkit/
+- I strongly recommend Virtual Desktop + Steam VR for all Quest and Pico users for the best balance between compatibility, reliability and performance
+- For those who must use link, the list also comes with Open Composite XR which works for Virtual Desktop XR and Meta Airlink.  Please be aware XR doesn't support Reshade and VR Performance Kit.  You can use Open XR Toolkit to add FSR and CAS back into it: https://mbucchia.github.io/OpenXR-Toolkit/
 - For Virtual Desktop XR https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/
 - For Meta Link users, the list also comes with the legacy version of Open Composite VR.  This only works for Meta Link, and does support Reshade and VR Performance Kit
 
