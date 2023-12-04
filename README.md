@@ -39,23 +39,37 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game still crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
-- Please increase your virtual memory to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
-- Please reset your Nvidia GPU driver settings to default and disable undervolt/overclocking if you experience random crashes, power limit is fine
 - Mods/plugins are disabled for a reason, do not mass enable all or sort plugins with LOOT, if you did, restore mod order with back arrow on mod tab, restore plugin order with back arrow on plugin tab
 - There are several ways to start the main quest, check out: https://www.nexusmods.com/skyrimspecialedition/mods/272
 
+## **I crashed**
+
+- Leave everything in the modlist on default.  Don't EVER use Loot Sort or Enable All.  When in doubt, disable all the mods you added, restore original modlist then plugin order with back arrow top of each tab, then turn on your mods/changes one at a time to find the problem
+- Clean install Skyrim VR and/or Fallout 4 VR: https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist#clean-skyrim
+- Increase virtual memory to at least 20GB https://www.windowscentral.com/how-ensure-best-vr-performance-your-pc
+- Whitelist antivirus/defender on MO2 folder/Skyrim VR folder, disable it just to be sure to test
+- Reset/clean install your GPU drivers and Steam VR, set all settings to default, close as many background programs as possible
+- Disable any overclock or undervolt on CPU/GPU
+- Use Virtual Desktop and Steam VR for maximum stability and compatibility, do not mess with Open Composite until later
+- Reboot your PC, things do get stuck in memory especially on GPU driver crashes
+
 ## **I need higher image quality**
 
+- Disable dynamic resolution in game
+- Make sure your encoding in Oculus, Virtual Desktop and/or Steam Link are set to manual bit rate
 - Consider enabling DLAA if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of 10% performance
-- 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x, and Terrain Parallax, if they have VRAM head room, just put them below the 2K version and remove 2K versions
+- 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x with 4K version
 
 ## **I need more FPS**
 
-- Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
-- I strongly recommend Virtual Desktop + Steam VR for all Quest and Pico users for the best balance between compatibility, reliability and performance
-- For those who must use link, the list also comes with Open Composite XR which works for Virtual Desktop XR and Meta Airlink.  Please be aware XR doesn't support Reshade and VR Performance Kit.  You can use Open XR Toolkit to add FSR and CAS back into it: https://mbucchia.github.io/OpenXR-Toolkit/
+- Make sure Steam VR resolution is always set to 100%, for Meta/Pico only change device resolution through Oculus software or better yet, Virtual Desktop
+- In game super sampling slider should be set to lowest
+- AMD users: reduce resolution
+- Nvidia users: Try DLAA + FSR balanced, or reduce resolution
+- Disable everything under ENB and CS if you need even more FPS.  Enable Lux Brightness template in right panel plugins section and optionally Glamur Reshade to compensate
+- I strongly recommend Virtual Desktop for all Quest and Pico users for the best balance between compatibility, reliability and performance
 - For Virtual Desktop XR https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/
-- For Meta Link users, the list also comes with the legacy version of Open Composite VR.  This only works for Meta Link, and does support Reshade and VR Performance Kit
+- Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
 
 ## **Updating to New Version**
 
