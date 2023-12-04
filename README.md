@@ -12,8 +12,8 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
-- [I need higher image quality](#i-need-higher-image-quality)
-- [I need more FPS](#i-need-more-fps)
+- [I Need Higher Image Quality](#i-need-higher-image-quality)
+- [I Need More FPS](#i-need-more-fps)
 - [Updating to New Version](#updating-to-new-version)
 - [Add New Mods](#add-new-mods)
 - [Controls](#controls)
@@ -22,7 +22,7 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 - [Changing NPC Body](#changing-npc-body)
 - [NSFW](#nsfw)
 - [Starting A Scene](#starting-a-scene)
-- [Changing NPC outfits](#changing-npc-outfits)
+- [Changing NPC Outfits](#changing-npc-outfits)
 
 ## **Installation**
 
@@ -43,7 +43,7 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 - Mods/plugins are disabled for a reason, do not mass enable all or sort plugins with LOOT, if you did, restore mod order with back arrow on mod tab, restore plugin order with back arrow on plugin tab
 - There are several ways to start the main quest, check out: https://www.nexusmods.com/skyrimspecialedition/mods/272
 
-## **I crashed**
+## **I Crashed**
 
 For all crash issues, drop crash.dateTime.log from Documents\My Games\Skyrim VR\SKSE.
 
@@ -57,14 +57,14 @@ For all crash issues, drop crash.dateTime.log from Documents\My Games\Skyrim VR\
 - Use Virtual Desktop and Steam VR for maximum stability and compatibility, do not mess with Open Composite until later
 - Reboot your PC, things do get stuck in memory especially on GPU driver crashes
 
-## **I need higher image quality**
+## **I Need Higher Image Quality**
 
 - Disable dynamic resolution in game
 - Make sure your encoding in Oculus, Virtual Desktop and/or Steam Link are set to manual bit rate
 - Consider enabling DLAA if you are a Nvidia user as they provide better anti-aliasing than TAA, at the cost of 10% performance
 - 16 - 24GB VRAM users can consider replace the major texture packs like SRP 4K, 202x with 4K version
 
-## **I need more FPS**
+## **I Need More FPS**
 
 - Make sure Steam VR resolution is always set to 100%, for Meta/Pico only change device resolution through Oculus software or better yet, Virtual Desktop
 - In game super sampling slider should be set to lowest
@@ -141,7 +141,7 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 - In first person (default), use your hand to push back and hold NPC for best view and avoid clipping.  For hands free operation, use third person view from SL VR tab
 - Read through the SL MCM, it is one of the best made mods in terms of quality and feature set, you can enable/disable just about anything you like or dislike
 
-## **Changing NPC outfits**
+## **Changing NPC Outfits**
 
 - In inventory open AddItem book to get the AddItem spell, this is an spell that allows you to get item from any installed mods, the three installed DX outfit packs have a lot of clothing to get started
 - In your inventory there is a new "Ring of Fashion Designer", which when equipped, gives you ability to override an NPC's equipment
