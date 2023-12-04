@@ -6,7 +6,9 @@ NSFW Version: https://www.nexusmods.com/skyrimspecialedition/mods/86817/
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
-This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual Desktop High (1.35x native Quest 2 resolution which shines with FSR upscaling), 45 FPS reprojected to 90.  For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE in chat.  All other issues, specify GPU and headset.
+This modlist is designed for 3070 and up.  Entry level hardware would be 11700 + 3070, Virtual Desktop Medium, 45 FPS reprojected to 90. 
+
+For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE in chat.  All other issues, specify GPU and headset.
 
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
@@ -70,8 +72,8 @@ For all crash issues, drop crash.dateTime.log from Documents\My Games\Skyrim VR\
 - Nvidia users: Try DLAA + FSR balanced, or reduce resolution
 - Disable everything under ENB and CS if you need even more FPS.  Enable Lux Brightness template in right panel plugins section and optionally Glamur Reshade to compensate
 - I strongly recommend Virtual Desktop for all Quest and Pico users for the best balance between compatibility, reliability and performance
-- For Open Composite XR https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/
-- Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
+- For Open Composite https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/
+- Please see the in-depth FPS article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
 
 ## **Updating to New Version**
 
