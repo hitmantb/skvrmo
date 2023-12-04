@@ -25,7 +25,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 ## **Installation**
 
 - Installation Video: https://www.youtube.com/watch?v=b6npjiJMOss
-- Do not waste time if you are using a pirated copy of the game, Steam VR version is required
+- Do not waste time if you are using a pirated copy of the game, Steam VR version is required, you will have random problems with pirated cversion
 - Download the zip file from Nexus, extract into .wabbajack file
 - Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the install from disk option, install to a root folder not shared by Skyrim VR like  D:\SKYRIMVR_Overhaul, as MO2 needs full lock to the entire directory
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
@@ -36,7 +36,6 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (SKSE)" from upper right corner, everything is already included and ready to go out of box
-- Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game still crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
 - Disable Dynamic Resolution in Game!  Super sampling in game should be set to lowest in-game
 - When starting new game, stand still wait for all the start-up scripts to run and finish if you are using NSFW version which takes a minute to install Sexlab animations 
 - Mods/plugins are disabled for a reason, do not mass enable all or sort plugins with LOOT, if you did, restore mod order with back arrow on mod tab, restore plugin order with back arrow on plugin tab
@@ -44,6 +43,9 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 
 ## **I crashed**
 
+For all crash issues, drop crash.dateTime.log from Documents\My Games\Skyrim VR\SKSE.
+
+- Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game still crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
 - Leave everything in the modlist on default.  Don't EVER use Loot Sort or Enable All.  When in doubt, disable all the mods you added, restore original modlist then plugin order with back arrow top of each tab, then turn on your mods/changes one at a time to find the problem
 - Clean install Skyrim VR and/or Fallout 4 VR: https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist#clean-skyrim
 - Increase virtual memory to at least 20GB https://www.windowscentral.com/how-ensure-best-vr-performance-your-pc
@@ -68,7 +70,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Nvidia users: Try DLAA + FSR balanced, or reduce resolution
 - Disable everything under ENB and CS if you need even more FPS.  Enable Lux Brightness template in right panel plugins section and optionally Glamur Reshade to compensate
 - I strongly recommend Virtual Desktop for all Quest and Pico users for the best balance between compatibility, reliability and performance
-- For Virtual Desktop XR https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/
+- For Open Composite XR https://www.reddit.com/r/skyrimvr_unrestricted/comments/17jjmbn/virtual_desktop_open_composite_xr_comparison/
 - Please see the in-depth article: https://www.reddit.com/r/skyrimvr_unrestricted/comments/17kccl5/skyrim_vr_2023_fps_stress_testing_cs_vs_enb/
 
 ## **Updating to New Version**
